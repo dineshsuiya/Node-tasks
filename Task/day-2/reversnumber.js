@@ -7,3 +7,4 @@ while(num){
     num=Math.floor(num/10)
 }
 console.log(count);
+console.log("successfully woriking");
